@@ -1,0 +1,12 @@
+git config --global user.name "chanjal"  >>config git with our username
+git config --global user.email "cvchanjal7@gmail.com"  >>config git with our email
+config requires while pushing towards a public repository in git hub from a local repository
+git status >>used to check current status of .git in the current directory
+git init >> to initialize git in the current directory (helps to track our changes in the current directory eg: add delete etc)
+U>>represents untracked (file is not yet commited or added to the staging area)
+A>> file that added to the staging area
+M>> fields being modified after committed
+git add filename (particular file only to staging area) or .( for all files) to add files into staging area
+git commit -m "my first commit" >>
+git push
+git clone repository URL >>repository from github
