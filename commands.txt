@@ -10,3 +10,9 @@ git add filename (particular file only to staging area) or .( for all files) to 
 git commit -m "my first commit" >>
 git push
 git clone repository URL >>repository from github
+
+creating new branch in github
+
+git branch to list all branches
+
+git branch branch name
